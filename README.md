@@ -4,7 +4,7 @@
 
 [![ForTheBadge built-by-developers](https://img.shields.io/badge/-Divyanshu%20Parwal-orange?style=for-the-badge)](https://github.com/DivyanshuParwal)
 <space><space>
-[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Anuj%20Gupta-ff69b4?style=for-the-badge)](https://github.com/NishatAMS)
+[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Anuj%20Gupta-ff69b4?style=for-the-badge)](https://github.com/anuj9090)
 <space><space>
 [![ForTheBadge built-by-developers](https://img.shields.io/badge/-Ayush%20Gupta-yellow?style=for-the-badge)](https://github.com/Ayushgup85)
 <space><space>
