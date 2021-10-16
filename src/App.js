@@ -71,7 +71,7 @@ function App() {
     return (
       <div className="app__header">
         <Link to="/">
-          <h1 className="company_logo">Giftasy</h1>
+          <h1 className="company_logo">UPHAAR</h1>
         </Link>
         {User && User.displayName ? (
           <div className="app__headerRight">
