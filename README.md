@@ -1,4 +1,4 @@
-# Giftasy - gifts made easy
+# Uphaar - gifting made easy
 
 ## Team members
 
@@ -39,7 +39,7 @@ Recieving gifts and prizes is a very memorable moment for everyone. Personalizin
 
 ## What it does
 
-Giftasy is a platform that can be used by influencers and event organisers for gifting digital gift cards as prizes at events.
+Uphaar is a platform that can be used by influencers and event organisers for gifting digital gift cards as prizes at events.
 
 Sometimes social media influencers and event organizers face problems while conducting quiz events, surveys, and contests both online and offline, like organizing participants, conducting quiz, scoring, engaging with participants and distribution of prizes,.
 
@@ -58,7 +58,7 @@ The usage of digital gift cards as way to distribute prizes is also set to incre
 We have built this platform using React and Firebase. Designed UI / UX in Figma.
 We have listed down the requirements and distributed the work amongst ourselves. We followed scrum methodology approach and had scrum calls everyday. We choose the tech stack that can help us deliver the best and go-live soon.
 
-## Challenges we ran into Giftasy
+## Challenges we ran into Uphaar
 
 We felt that studying the entire value chain of the gift card system, dissecting and identifying where value can be added, studying the events management and influencers platforms, brainstorming ideas, managing time and prioritising tasks are challenging.
 
@@ -70,13 +70,13 @@ We have completed the prototype showcasing the entire process of conducting even
 
 We have learned how to dissect the value chain and add value at intermediary stages, identify gaps in the market, manage time, and how to deliver personalized gifting experience for users.
 
-## What's next for Giftasy
+## What's next for Uphaar
 
 We would like to go-live with the Minimum Viable Product (MVP) and on-board users onto the platform, making users adapt to the platform, close feedback loops, and incrementally add value to the system, help influencers with user analytics and make informed decisions.
 
 ## Live link
 
-[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Live%20Demo-white?style=for-the-badge)](https://giftasy-65eb4.web.app)
+[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Live%20Demo-white?style=for-the-badge)](https://uphaar.netlify.app/#/)
 
 ## Video link
 
