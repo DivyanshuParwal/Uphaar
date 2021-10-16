@@ -1,4 +1,4 @@
-# Giftasy - gifts made easy
+# Uphaar - gifting made easy
 
 ## Team members
 
