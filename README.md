@@ -76,7 +76,7 @@ We would like to go-live with the Minimum Viable Product (MVP) and on-board user
 
 ## Live link
 
-[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Live%20Demo-white?style=for-the-badge)](https://easygifts.netlify.app)
+[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Live%20Demo-white?style=for-the-badge)](https://giftasy-65eb4.web.app)
 
 ## Video link
 
