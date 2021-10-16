@@ -29,13 +29,12 @@ function Login(props) {
 		[ props.user ]
 	);
 
-<<<<<<< HEAD
 	return (
 		<div className="main_login_div">
 			<div className="form_div">
 				<form className="app__login">
 					<div className="form_header">
-						<h1>Uphaar</h1>
+						<h1>UPHAAR</h1>
 						<h3>Modern way to discuss</h3>
 					</div>
 					<TextField
@@ -74,61 +73,6 @@ function Login(props) {
 			</div>
 		</div>
 	);
-=======
-  return (
-    <div className="main_login_div">
-      <div className="form_div">
-        <form className="app__login">
-          <div className="form_header">
-            <h1>UPHAAR</h1>
-            <h3>Modern way to discuss</h3>
-          </div>
-          <TextField
-            id="outlined-multiline-static"
-            label="Email"
-            required
-            InputLabelProps={{
-              shrink: true,
-            }}
-            variant="outlined"
-            value={props.email}
-            onChange={(e) => props.setEmail(e.target.value)}
-          />
-          <TextField
-            id="outlined-multiline-static"
-            label="Password"
-            required
-            InputLabelProps={{
-              shrink: true,
-            }}
-            variant="outlined"
-            type="password"
-            value={props.password}
-            onChange={(e) => props.setPassword(e.target.value)}
-          />
-          <Button
-            className="control_botton"
-            variant="contained"
-            size="medium"
-            onClick={props.handleLogin}
-          >
-            Login
-          </Button>
-          <span className="google_btn_span">
-            <Button
-              className="google_btn"
-              size="large"
-              onClick={() => signUpGoogle()}
-            ></Button>
-          </span>
-          <Link className="link_option" to="register">
-            <Button size="large">Sign UP</Button>
-          </Link>
-        </form>
-      </div>
-    </div>
-  );
->>>>>>> b203dbdd12a5d9f51a763a64fb8c329d7ed0cfc1
 }
 
 export default Login;

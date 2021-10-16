@@ -29,13 +29,12 @@ function Signup(props) {
 		[ props.user ]
 	);
 
-<<<<<<< HEAD
 	return (
 		<div className="main_login_div">
 			<div className="form_div">
 				<form className="app__login">
 					<div className="form_header">
-						<h1>Giftasy</h1>
+						<h1>UPHAAR</h1>
 						<h3>Modern way to discuss</h3>
 					</div>
 					<TextField
@@ -85,67 +84,6 @@ function Signup(props) {
 			</div>
 		</div>
 	);
-=======
-  return (
-    <div className="main_login_div">
-      <div className="form_div">
-        <form className="app__login">
-          <div className="form_header">
-            <h1>UPHAAR</h1>
-            <h3>Modern way to discuss</h3>
-          </div>
-          <TextField
-            id="outlined-multiline-static"
-            label="Name"
-            required
-            InputLabelProps={{
-              shrink: true,
-            }}
-            variant="outlined"
-            value={props.username}
-            onChange={(e) => props.setUsername(e.target.value)}
-          />
-          <TextField
-            id="outlined-multiline-static"
-            label="Email"
-            required
-            InputLabelProps={{
-              shrink: true,
-            }}
-            variant="outlined"
-            value={props.email}
-            onChange={(e) => props.setEmail(e.target.value)}
-          />
-          <TextField
-            id="outlined-multiline-static"
-            label="Password"
-            required
-            InputLabelProps={{
-              shrink: true,
-            }}
-            variant="outlined"
-            type="password"
-            value={props.password}
-            onChange={(e) => props.setPassword(e.target.value)}
-          />
-          <Button className="control_botton" onClick={props.handleRegister}>
-            Register
-          </Button>
-          <span className="google_btn_span">
-            <Button
-              className="google_btn"
-              size="large"
-              onClick={() => signUpGoogle()}
-            ></Button>
-          </span>
-          <Link className="link_option" to="login">
-            <Button size="large">Login</Button>
-          </Link>
-        </form>
-      </div>
-    </div>
-  );
->>>>>>> b203dbdd12a5d9f51a763a64fb8c329d7ed0cfc1
 }
 
 export default Signup;
