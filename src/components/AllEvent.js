@@ -68,7 +68,7 @@ function AllEvent() {
             variant="outlined"
             label="Start Date"
             type="date"
-            defaultValue="2021-07-31"
+            defaultValue="2021-10-21"
             InputLabelProps={{
               shrink: true,
             }}
@@ -80,7 +80,7 @@ function AllEvent() {
             variant="outlined"
             label="End Date"
             type="date"
-            defaultValue="2021-07-31"
+            defaultValue="2021-10-21"
             InputLabelProps={{
               shrink: true,
             }}

@@ -19,11 +19,11 @@ function App() {
   const [password, setPassword] = useState("");
   const [user, setUser] = useState(null);
   const [participants, setParticipants] = useState([
-    { user: "Naveen", score: "3" },
-    { user: "Manoj", score: "2" },
+    { user: "Divyanshu", score: "3" },
+    { user: "Anuj", score: "2" },
     { user: "Ayush", score: "2" },
-    { user: "Nishat", score: "1" },
-    { user: "Rao", score: "1" },
+    { user: "Shubham", score: "1" },
+    { user: "Manav", score: "1" },
   ]);
 
   useEffect(() => {
